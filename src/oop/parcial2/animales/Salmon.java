@@ -1,7 +1,6 @@
-package opp.parcial2.animales;
+package oop.parcial2.animales;
 
-public class Salmon extends Pez {
-
+public class Salmon extends Fish{
     @Override
     public String toString() {
         return "Salmon";

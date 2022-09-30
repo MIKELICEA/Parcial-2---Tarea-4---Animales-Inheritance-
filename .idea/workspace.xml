@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b996c44-f833-4a3a-9b70-d4822d984128" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Aguila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Ave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Condor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Condor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Gorrion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Halcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Pez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Raton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Salmon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Salmon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Sardina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Tilapia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Tilapia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Trucha.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +46,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/migue/OneDrive/Documentos/5to Semestre UASLP/Tecnologia Orientada a Objetos/Shapes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,7 +63,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664418691551</updated>
-      <workItem from="1664418692851" duration="322000" />
+      <workItem from="1664418692851" duration="1415000" />
+      <workItem from="1664454908139" duration="289000" />
+      <workItem from="1664475597900" duration="2762000" />
     </task>
     <servers />
   </component>
